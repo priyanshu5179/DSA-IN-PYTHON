@@ -1,7 +1,7 @@
 '''a=234
 print(a)
 '''
-print (53)
+'''print (53)
 print (432)
 nums = [5, 2, 8, 1, 4]
 
@@ -10,4 +10,8 @@ for i in range(len(nums)):
     for j in range(len(nums)):
         if nums[j] < nums[i]:
             count += 1
-    print(f"Numbers less than {nums[i]} = {count}")
+    print(f"Numbers less than {nums[i]} = {count}")'''
+a=43
+r=a%3
+print(float(r)
+)
