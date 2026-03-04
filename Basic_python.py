@@ -15,3 +15,5 @@ a=43
 r=a%3
 print(float(r)
 )
+
+if whike
