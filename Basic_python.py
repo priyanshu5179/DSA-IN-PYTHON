@@ -11,9 +11,7 @@ for i in range(len(nums)):
         if nums[j] < nums[i]:
             count += 1
     print(f"Numbers less than {nums[i]} = {count}")'''
-a=43
-r=a%3
-print(float(r)
-)
-
-if whike
+list=[1,2,3,4,5]
+print(list[2])
+list.append(1)
+print(list)
