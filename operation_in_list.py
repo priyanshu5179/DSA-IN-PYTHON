@@ -5,6 +5,6 @@ print(list)
 
 
 
-list1=[42,432,242,423]
-list1.count(42)
-print(list1)
+list1=[42,42,432,242,423]
+list1.clear()
+print(list
