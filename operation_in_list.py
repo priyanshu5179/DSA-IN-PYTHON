@@ -7,4 +7,8 @@ print(list)
 
 list1=[42,42,432,242,423]
 list1.clear()
-print(list
+print(list1)
+
+
+
+print(54)
