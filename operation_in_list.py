@@ -7,10 +7,8 @@ print(list)
 
 list1=[42,42,432,242,423]
 list1.clear()
-print(list1)
-
-
-
-print(54)
-print("Priyanshu Yadav")
-print("Riyanshu")
+print(list)
+list3=[42,234,24324,4234,2,41]
+print(list3[:3])
+list3=[42,234,24324,4234,2,41]
+print(list3[-1:])
