@@ -20,3 +20,4 @@ print(list4[1:5:2])
 list5=[534,53,351,525,525]
 print(list5.count(525))
 printf(hello)
+print
