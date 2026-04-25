@@ -1,4 +1,4 @@
-'''list=[1,2,3,4,5]
+list=[1,2,3,4,5]
 print(list[2])
 list.append(1)
 print(list)
@@ -19,7 +19,7 @@ print(list4[1:5:2])
 
 list5=[534,53,351,525,525]
 print(list5.count(525))
-'''
+
 tuple=(54,543,234,355,"hello","tee")
 print(tuple)
 list1=list(tuple)
