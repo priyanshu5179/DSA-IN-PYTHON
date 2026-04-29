@@ -26,4 +26,5 @@ list1=list(tuple)
 print(list1)
 list1.append(5)
 print(list1)
-list=(32985,523,513,245,22)hr
+list=(32985,523,513,245,22)
+hello
